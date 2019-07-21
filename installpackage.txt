@@ -1,0 +1,6 @@
+googlechrome
+git
+vscode
+docker-desktop
+openjdk
+nodejs-lts
